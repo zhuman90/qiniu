@@ -1,5 +1,10 @@
 {
     "name": "laravuel/qiniu",
+    "description": "七牛云laravel扩展包",
+    "keywords": [
+        "qiniu",
+        "laravel qiniu"
+    ],
     "authors": [
         {
             "name": "laravuel",
